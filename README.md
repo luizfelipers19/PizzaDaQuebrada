@@ -3,6 +3,8 @@ Landing Page of a pizza restaurant, developed with ReactJS(Hooks) and Styled Com
 
 Projeto de landing page para webapp de Pizzaria. Desenvolvido em React Js, utilizando Styled-Components. O projeto é responsivo.
 
+![](https://user-images.githubusercontent.com/26651389/102919016-cf49b800-4466-11eb-8d77-74cfe113e728.gif)
+
 
 
 
