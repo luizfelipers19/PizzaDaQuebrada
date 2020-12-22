@@ -1,8 +1,16 @@
-# Getting Started with Create React App
+# Pizza da Quebrada
+Landing Page of a pizza restaurant, developed with ReactJS(Hooks) and Styled Components. This project is responsive.
+
+Projeto de landing page para webapp de Pizzaria. Desenvolvido em React Js, utilizando Styled-Components. O projeto é responsivo.
+
+
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### Available Scripts
 
 In the project directory, you can run:
 
@@ -14,12 +22,12 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
-## `yarn test`
+### `yarn test`
 
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-## `yarn build`
+### `yarn build`
 
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
