@@ -1,9 +1,12 @@
 # Pizza da Quebrada
-Landing Page of a pizza restaurant, developed with ReactJS(Hooks) and Styled Components. This project is responsive.
+Landing Page of a pizza restaurant, developed with ReactJS(Hooks) and Styled Components. This project is responsive and adapts to different screen sizes.
 
-Projeto de landing page para webapp de Pizzaria. Desenvolvido em React Js, utilizando Styled-Components. O projeto é responsivo.
+Projeto de landing page para webapp de Pizzaria. Desenvolvido em React Js, utilizando Styled-Components. O projeto é responsivo e se adapta a diferentes tamanhos de tela.
 
 ![](https://user-images.githubusercontent.com/26651389/102919016-cf49b800-4466-11eb-8d77-74cfe113e728.gif)
+
+![](https://user-images.githubusercontent.com/26651389/102919525-c9a0a200-4467-11eb-9616-d0c00fb88e6e.gif)
+
 
 
 
